@@ -79,4 +79,6 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: git@github.com:Tony427/Tony427.github.io.git
+  branch: master
