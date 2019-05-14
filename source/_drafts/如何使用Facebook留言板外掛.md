@@ -1,9 +1,15 @@
 ---
-title: 如何在自己網頁使用Facebook程式外掛
+title: 如何使用Facebook留言板外掛
 date: 2017-11-25 12:00:00
-tags:
-categories: Facebook
+tags: 
+- Facebook
+- plugin
+categories: Software
+thumbnail: https://images.unsplash.com/photo-1540205441050-9bb1625e6dae?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9
 ---
+
+<!-- more -->
+
 1. 申請Facebook Developer應用程式，獲得一組應用程式ID
 ![](/assets/img/post/2017112501.jpg)
 

@@ -1,15 +1,21 @@
 ---
 title: 使用JekyII建置Git-Page
 date: 2017-11-20 12:00:00
-tags:
-categories: Ruby
+tags: 
+- JekyII
+- ROR
+categories: Software
+thumbnail: https://images.unsplash.com/photo-1519155031214-e8d583928bf2?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9
 ---
+
+<!-- more -->
 
 ## 建立GitPage來host你的靜態網頁 （持續修改中）
 1. 假設帳號為`xxx`
 2. 建立新的repository，並且將名稱設定為`xxx.github.io`
 3. repository裡面簡單的放上index.html，打上網址`https://xxx.github.io`就可以顯示indexl.html的內容
 4. github目前預設使用這個repository的master分支顯示網頁內容(過去是使用gh-page分支)
+
 
 ## 使用Git Theme
 1. 就選擇Git Theme就會自動產生樣板....

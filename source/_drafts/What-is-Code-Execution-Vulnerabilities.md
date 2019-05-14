@@ -2,9 +2,14 @@
 title: What is Code Execution Vulnerabilities
 date: 2017-10-31 12:00:00
 tags:
-categories: 資訊安全
+categories: Software
+thumbnail: https://images.unsplash.com/photo-1522040806052-b0aa2b039f00?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9
 ---
+
+<!-- more -->
+
 https://www.udemy.com/learn-website-hacking-penetration-testing-from-scratch/learn/v4/
+
 ## Ch 6 : What is Code Execution Vulnerabilities ?
 > The 3rd meeting. 
 > Lecturer: Tony

@@ -1,10 +1,18 @@
 ---
 title: dotnet Core 2.0筆記
 date: 2017-09-19 12:00:00
-tags:
-categories: dotnet Core
+tags: 
+- DotnetCore
+- C#
+categories: Software
+thumbnail: https://images.unsplash.com/photo-1504985954001-5737b2af529e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9
 ---
-以下內容主要來自 [Introduction to ASP.NET Core](https://docs.microsoft.com/zh-tw/aspnet/core/) 整理自己覺得特別要注意的地方
+
+<!-- more -->
+
+# Docnet Coret 2.0初探筆記
+以下內容主要來自 [Introduction to ASP.NET Core](https://docs.microsoft.com/zh-tw/aspnet/core/) 
+整理自己覺得特別要注意的地方
 
 
 ## Entity Framework Core 2.0

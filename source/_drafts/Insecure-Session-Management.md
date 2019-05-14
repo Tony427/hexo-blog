@@ -2,15 +2,17 @@
 title: Insecure Session Management
 date: 2017-11-27 12:00:00
 tags:
-categories: 資訊安全
+categories: Software
+thumbnail: https://images.unsplash.com/photo-1556017069-cb3fe229ab46?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9
 ---
-
-https://www.udemy.com/learn-website-hacking-penetration-testing-from-scratch/learn/v4/
-
+ 
+ <!-- more -->
 # Learn Website Hacking / Penetration Testing From Scratch (15)
 
 > [Ch15] Insecure Session Management
 > Udemy 線上課程學習筆記
+
+https://www.udemy.com/learn-website-hacking-penetration-testing-from-scratch/learn/v4/
 
 ## Logging In As Admin Without a Password By Manipulating Cookies
 
